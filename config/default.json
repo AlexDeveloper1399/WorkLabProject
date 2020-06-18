@@ -1,0 +1,5 @@
+{
+    "port":8000,
+    "mongoURI":"mongodb+srv://admin:admin@cluster0-i0wei.mongodb.net/users",
+    "jwtSecret":"worklab123"
+}
